@@ -1,4 +1,4 @@
-function add() {
+function addTask() {
     const taskInput = document.getElementById("new-task");
     const taskList = document.getElementById("task-list");
 
